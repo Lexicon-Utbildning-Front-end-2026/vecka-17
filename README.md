@@ -92,7 +92,7 @@ Vi färdigställer de viktigaste planeringsdelarna och gör projektet redo för 
 - Välja första vertikala ticket (en liten uppgift som ger synligt värde)
 - Skapa repo och GitHub Project
 
-### Förmiddag: Implementation
+### Förmiddag: Genomgång - Implementation
 
 Innan elevdemon har vi en lärarledd genomgång av implementation:
 
