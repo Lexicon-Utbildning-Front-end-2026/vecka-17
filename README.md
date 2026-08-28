@@ -106,7 +106,7 @@ Innan elevdemon har vi en lärarledd genomgång av implementation:
 - Fokus på ett fungerande end-to-end-flöde
 - Kort om möjligheter och begränsningar med lokal modell
 
-### Studentens eget arbete
+### Eget arbete
 
 Deltagare vars plan är godkänd av lärare kan börja implementera och fortsätta utvecklingen.
 
@@ -122,7 +122,7 @@ Vi går från planering till kod. Fokus ligger på att välja en liten uppgift, 
 - Börja implementera första ticket
 - Testa att ge tydlig AI-feedback
 
-### Studentens eget arbete
+### Eget arbete
 
 - Välj en godkänd ticket
 - Implementera en liten del
