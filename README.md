@@ -4,7 +4,7 @@ Under första veckan går vi från AI-grunder och idéarbete till en första tyd
 
 ---
 
-## Måndag: AI-grunder och mini-PRD (kort produktplan)
+## Måndag: AI-grunder och mini-spec/PRD
 
 Vi introducerar projektuppgiften, pratar om AI-assisterad utveckling och använder AI som stöd för att utveckla och avgränsa en projektidé.
 
@@ -21,7 +21,7 @@ AI kan användas för idéarbete, planering, kod, felsökning och review, men du
 - Förstå uppgiften
 - Välja en idé
 - Börja avgränsa MVP (minsta användbara versionen)
-- Skapa ett första mini-PRD (kort produktplan)
+- Skapa ett första mini-spec/PRD (kort produktplan)
 - Göra en enkel skiss, mood board (visuell känsla) eller user flow (användarflöde)
 
 ### Förmiddag: Lite teori och presentation av uppgift
