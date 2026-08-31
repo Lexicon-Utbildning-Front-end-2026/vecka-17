@@ -140,3 +140,16 @@ Vi fortsätter implementationen. Stäm gärna av lite med gruppen hur arbetet g�
 - Se till att göra klart åtminstone en första ticket/issue
 - Stäm av arbetet hittills, kommer det hålla eller inte?
 - Justera backlog inför vecka 2
+
+## Material
+Här är lite olika länkar som pratar om workflow med AI på lite olika sätt, titta gärna på någon/några och se vad du tycker verkar vara bra. 
+* [Matt Pocock - The 7 phases of AI-driven development](https://www.youtube.com/watch?v=Ah9p7v7nJWg)
+* [Full Walkthrough: Workflow for AI Coding — Matt Pocock](https://www.youtube.com/watch?v=-QFHIoCo-Ko)
+* [Matt Pocock - mattpocock/skills: A complete AI Coding workflow, end-to-end](https://www.youtube.com/watch?v=M6mYodf0dJM)
+* [Web Dev Simplified - How To Build A Production Ready RAG AI - My Full AI Coding Workflow](https://www.youtube.com/watch?v=1mvlBz6pj1I)
+* [Web Dev Simplified - How To Use AI Skills Like A Senior Developer](https://www.youtube.com/watch?v=cxQLKsktiBA)
+* [Jan Marshall - How Senior Engineers Actually Code With AI](https://www.youtube.com/watch?v=3RmtNXqnreI)
+* [Jan Marshall - How Senior Engineers Build B2B Multi-Tenant SaaS (RBAC, Billing & Entitlements](https://www.youtube.com/watch?v=iR6mhJAK-Z4)
+* [Jan Marshall - My Complete Development System (AI, Stack, Tools & Workflow)](https://www.youtube.com/watch?v=AQ_Iqo3UYMk)
+
+
