@@ -112,9 +112,9 @@ Deltagare vars plan är godkänd av lärare kan börja implementera och fortsät
 
 ---
 
-## Torsdag: Implementation
+## Torsdag: Implementation och feedbackloop
 
-Vi går från planering till kod. Fokus ligger på att välja en liten uppgift, implementera kontrollerat och kunna verifiera att den fungerar.
+Vi går från planering till kod. Fokus ligger på att välja en liten uppgift, implementera kontrollerat och kunna verifiera att den fungerar. Feedback till AI-agenten behandlas här som en del av implementationen, inte som ett separat moment senare.
 
 ### Mål för dagen
 
@@ -122,11 +122,22 @@ Vi går från planering till kod. Fokus ligger på att välja en liten uppgift, 
 - Börja implementera första ticket
 - Testa att ge tydlig AI-feedback
 
+### Gemensam demo: ticket -> implementation -> feedback
+
+- Välj en godkänd vertikal ticket
+- Bestäm hur den ska kontrolleras innan kod skrivs
+- Låt agenten genomföra en liten del
+- Kör TypeScript, test eller annan relevant kontroll tidigt
+- Läs diffen och jämför mot ticketens acceptanskriterier
+- Ge konkret feedback med förväntat beteende, faktisk output, felmeddelande eller relevant diff
+- Be om diagnos före en ny bred omskrivning
+
 ### Eget arbete
 
 - Välj en godkänd ticket
 - Implementera en liten del
 - Kör relevanta kontroller tidigt
+- Korrigera agenten med konkret feedback när något inte stämmer
 - Läs diffen (ändringarna i koden) innan commit (sparad ändring i Git)
 
 ---
