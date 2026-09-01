@@ -86,19 +86,11 @@ Vi färdigställer de viktigaste planeringsdelarna och gör projektet redo för 
 
 ### Mål för dagen
 
+- Testa och besluta om olika lösningar för ev stöd av AI i ditt projekt (appar, agenter, modeller, skills osv)
 - Färdigställa PRD och enkel skiss
-- Bestämma teknikval
+- Bestämma teknikval/tech stack i din app (tailwind/vanlig css, ikoner, databaser/api...)
 - Strukturera backlog (lista med kommande uppgifter)
-- Välja första vertikala ticket (en liten uppgift som ger synligt värde)
-- Skapa repo och GitHub Project
-
-### Förmiddag: Genomgång - Implementation
-
-Innan elevdemon har vi en lärarledd genomgång av implementation:
-
-- Välj en första vertikal ticket och bestäm hur den ska kontrolleras
-- Låt agenten genomföra en liten del och kör TypeScript eller relevant test tidigt
-- Öva på att stoppa, korrigera och ge konkret feedback till agenten
+- Skapa repo med startkod och GitHub Project
 
 ### Förmiddag: Elevdemo - LM Studio
 
@@ -106,9 +98,7 @@ Innan elevdemon har vi en lärarledd genomgång av implementation:
 - Fokus på ett fungerande end-to-end-flöde
 - Kort om möjligheter och begränsningar med lokal modell
 
-### Eget arbete
-
-Deltagare vars plan är godkänd av lärare kan börja implementera och fortsätta utvecklingen.
+### Eftermiddag - Eget arbete (se mål)
 
 ---
 
