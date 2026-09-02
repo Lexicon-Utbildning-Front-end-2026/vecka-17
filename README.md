@@ -4,7 +4,7 @@ Under första veckan går vi från AI-grunder och idéarbete till en första tyd
 
 ---
 
-## Måndag: AI-grunder och mini-spec/PRD
+## 📅 Måndag: AI-grunder och mini-spec/PRD
 
 Vi introducerar projektuppgiften, pratar om AI-assisterad utveckling och använder AI som stöd för att utveckla och avgränsa en projektidé.
 
@@ -16,7 +16,7 @@ Projektet ska ha en tydlig målgrupp, lösa ett konkret problem eller behov och 
 
 AI kan användas för idéarbete, planering, kod, felsökning och review, men du ansvarar själv för att förstå, kontrollera och kunna förklara det du gjort.
 
-### Mål för dagen
+### 🎯 Mål för dagen
 
 - Förstå uppgiften
 - Välja en idé
@@ -42,11 +42,11 @@ AI kan användas för idéarbete, planering, kod, felsökning och review, men du
 
 ---
 
-## Tisdag: AI-arbetsflöde, PRD och tickets (små uppgifter)
+## 📅 Tisdag: AI-arbetsflöde, PRD och tickets (små uppgifter)
 
 Vi fortsätter från idé till mer konkret planering. Fokus ligger på att göra projektet genomförbart, skapa små vertikala tickets och få tidig feedback.
 
-### Mål för dagen
+### 🎯 Mål för dagen
 
 - Förstå vertikala tickets
 - Göra PRD:t mer användbart - PRD -> Specs
@@ -80,11 +80,11 @@ Presentationerna är ett tidigt avstämningstillfälle. Den viktigaste återkopp
 
 ---
 
-## Onsdag: Färdigställ planering
+## 📅 Onsdag: Färdigställ planering
 
 Vi färdigställer de viktigaste planeringsdelarna och gör projektet redo för implementation.
 
-### Mål för dagen
+### 🎯 Mål för dagen
 
 - Testa och besluta om olika lösningar för ev stöd av AI i ditt projekt (appar, agenter, modeller, skills osv)
 - Färdigställa PRD och enkel skiss
@@ -102,11 +102,11 @@ Vi färdigställer de viktigaste planeringsdelarna och gör projektet redo för 
 
 ---
 
-## Torsdag: Implementation och feedbackloop
+## 📅 Torsdag: Implementation och feedbackloop
 
 Vi går från planering till kod. Fokus ligger på att välja en liten uppgift, implementera kontrollerat och kunna verifiera att den fungerar. Feedback till AI-agenten behandlas här som en del av implementationen, inte som ett separat moment senare.
 
-### Mål för dagen
+### 🎯 Mål för dagen
 
 - Kontrollera scope
 - Börja implementera första ticket
@@ -132,17 +132,17 @@ Vi går från planering till kod. Fokus ligger på att välja en liten uppgift, 
 
 ---
 
-## Fredag: Fortsatt arbete
+## 📅 Fredag: Fortsatt arbete
 
 Vi fortsätter implementationen. Stäm gärna av lite med gruppen hur arbetet gått hittills och om ert scope känns rimligt. Dela erfarenheter och stötta varandra. Dema gärna för varandra vad ni gjort.
 
-### Mål för dagen
+### 🎯 Mål för dagen
 
 - Se till att göra klart åtminstone en första ticket/issue
 - Stäm av arbetet hittills, kommer det hålla eller inte?
 - Justera backlog inför vecka 2
 
-## Material
+## 📚 Material
 Här är lite olika länkar som pratar om workflow med AI på lite olika sätt, titta gärna på någon/några och se vad du tycker verkar vara bra. 
 * [Matt Pocock - The 7 phases of AI-driven development](https://www.youtube.com/watch?v=Ah9p7v7nJWg)
 * [Full Walkthrough: Workflow for AI Coding — Matt Pocock](https://www.youtube.com/watch?v=-QFHIoCo-Ko)
